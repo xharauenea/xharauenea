@@ -1,104 +1,129 @@
-### <div align="center">I'm Enea Xharau, a full-time full-stack developer 👨‍💻</div>  
-  
+<h1 align="center">Enea Xharau</h1>
+<h3 align="center">Full-Stack Developer @ Ritech International AG</h3>
 
-- 🔭 I’m currently working on [Ritech International AG](https://ritech.co)  
-  
+<br/>
 
-- 🌱 I’m currently learning Go and Rust  
-  
+<!-- BENTO GRID START -->
+<table>
+<tr>
+<td width="60%" valign="top">
 
-- ❓ Ask me about anything related to React, Next, Typescript  
-  
+### Currently Building
 
-- ⚡ Fun fact: I keep my VSCode file explorer on the right side.  
-  
+Building AI-powered developer tools and exploring the intersection of **AI-native applications** with modern full-stack frameworks.
 
-<br/>  
+- **AI-powered tools** that enhance developer workflows
+- **Full-stack applications** with cutting-edge frameworks
+- **Platform-agnostic solutions** that prioritize flexibility
 
+</td>
+<td width="40%" valign="top">
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+### Fun Fact
 
+```
+I keep my VSCode file
+explorer on the right side.
+```
 
+*Yes, really.*
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-</div>
+</td>
+</tr>
+</table>
 
-</td><td valign="top" width="33%">
+<br/>
 
+<!-- TECH STACK -->
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
 
+**Frontend**
 
-### Backend  
-<div align="center">  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-</td><td valign="top" width="33%">
+</td>
+<td width="33%" align="center" valign="top">
 
+**Backend**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
+</td>
+<td width="33%" align="center" valign="top">
 
-</td></tr></table>  
+**DevOps**
 
-<br/>  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+</td>
+</tr>
+</table>
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/xharauenea" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/enea-xharau" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/enea_xahrau" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/XharauEnea" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+<br/>
 
-<br/>  
+<!-- FEATURED PROJECTS -->
+### Featured Projects
 
+| Project | Description |
+|---------|-------------|
+| [**TechDebtGPT**](https://github.com/xharauenea/TechDebtGPT) | AI-powered insights into technical debt, team performance, and project health |
+| [**RiQA**](https://github.com/xharauenea/RiQA) | Platform-agnostic AI orchestrator for automated test case inference and generation |
+| [**Veganotpunk**](https://github.com/xharauenea/veganotpunk) | Provider-agnostic chat app solving context rot and context management |
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=xharauenea&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>
 
-<br/>  
+<!-- GITHUB STATS -->
+<table>
+<tr>
+<td width="50%" align="center">
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=xharauenea&&style=flat-square" align="center" />
-</div>  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xharauenea&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true)
 
-<br />
+</td>
+<td width="50%" align="center">
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xharauenea&layout=compact&theme=transparent&hide_border=true&hide_title=true)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xharauenea&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+<!-- CONNECT & BLOG -->
+<table>
+<tr>
+<td width="65%" valign="top">
+
+### Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xharauenea)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enea-xharau)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eneaxharau)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/XharauEnea)
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+### Blog
+
+*Coming soon*
+
+</td>
+</tr>
+</table>
