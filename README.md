@@ -99,10 +99,6 @@ explorer on the right side.
 </tr>
 </table>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=xharauenea&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
-
 <br/>
 
 <!-- CONNECT & BLOG -->
