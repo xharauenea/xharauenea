@@ -88,7 +88,7 @@ explorer on the right side.
 <tr>
 <td width="50%" align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xharauenea&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xharauenea&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true)
 
 </td>
 <td width="50%" align="center">
@@ -100,7 +100,7 @@ explorer on the right side.
 </table>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xharauenea&theme=transparent&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=xharauenea&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br/>
